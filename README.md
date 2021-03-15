@@ -1,8 +1,6 @@
 # Portifolio
+✅ Projeto Finalizado
 
-<h4 align="center"> 
-	✅ Projeto Finalizado
-</h4>
 
 ### Descrição
 Portifólio, Este Repositorio foi desenvoolvido para ajudar pessoas a apresentarem seus projetos realizados de forma eficiente e facil compreensão
