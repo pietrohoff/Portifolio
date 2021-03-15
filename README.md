@@ -1,9 +1,5 @@
 # Portfólio
 
-✅ Status do Projeto: Finalizado
-✅ Update: 15/03/2021
-
-
 ### 📋 Descrição
 Portifólio, Este Repositorio foi desenvoolvido para ajudar pessoas a apresentarem seus projetos realizados de forma eficiente e facil compreensão
 
