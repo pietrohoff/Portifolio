@@ -1,5 +1,6 @@
 # Portifolio
-✅ Projeto Finalizado
+
+✅ Status do Projeto: Finalizado
 
 
 ### Descrição
@@ -9,8 +10,8 @@ Portifólio, Este Repositorio foi desenvoolvido para ajudar pessoas a apresentar
 Antes de começar, você vai precisar ter instalado apenas um navegador
 
 ### Rodando o arquivo
-Clone este repositório
-Execute o arquivo index.html
+- Clone este repositório
+- Execute o arquivo index.html
 
 ### 🛠 Tecnologias
 
