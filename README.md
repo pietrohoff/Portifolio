@@ -11,7 +11,7 @@ Antes de começar, você vai precisar ter instalado apenas um navegador
 
 ### Rodando o arquivo
 - Clone este repositório
-- Execute o arquivo index.html
+- Execute o arquivo *index.html*
 
 ### 🛠 Tecnologias
 
